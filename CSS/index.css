@@ -1,0 +1,46 @@
+.time {
+    color: #000;
+    font-size: 0.89844rem;
+    font-style: normal;
+    font-weight: 900;
+    line-height: normal;
+}
+
+.skip {
+    width: 3.6875rem;
+    height: 1.72081rem;
+    flex-shrink: 0;
+    border-radius: 9.83331rem;
+    background: rgba(183, 183, 183, 0.87);
+    color: #FFF;
+    text-align: center;
+    font-size: 0.8rem;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 116.688%;
+    letter-spacing: 0.00688rem;
+    padding-top: 0.4rem;
+    padding-bottom: 0.6rem;
+}
+
+.box {
+    border: 1px solid #DADADA;
+    border-radius: 0.625rem;
+}
+
+.number {
+    color: #888;
+    text-align: center;
+    font-size: 0.9rem;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 116.688%;
+    letter-spacing: 0.00875rem;
+}
+
+.desc {
+    color: #666;
+    text-align: center;
+    font-size: 0.75rem;
+    letter-spacing: 0.0075rem;
+}
