@@ -4,6 +4,8 @@
     --color-body: #FCFFFF;
     --text-main-color: #121212;
     --text-gray-color: #888888;
+    --bg-gray-color: #F1F1F1;
+    --bg-red-color: #FE5A5A;
 }
 
 *{
