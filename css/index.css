@@ -86,4 +86,6 @@ select[id="time-of-day"]{
     color: white;
     font-size: 1.8rem;
     font-weight: bold;
+    box-shadow: .2rem .4rem lightgray;
+    opacity: 90%;
 }
