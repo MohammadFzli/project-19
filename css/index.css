@@ -4,7 +4,30 @@
 @import url(./-utils.css);
 @import url(./_components.css);
 
+
+
+
 .header-bg{
 z-index: -1;
 top: 0;
 }
+
+body{
+    width: 380px;
+}
+
+.truncate{
+    display:flex;
+    flex-direction: column;
+    width: 27rem;
+    border-radius: 0.8rem;
+    padding: 0.8rem;
+}
+
+.truncate span{
+    overflow: hidden;
+    text-overflow: ellipsis;
+    display: -webkit-box;
+    -webkit-line-clamp: 3; /* تعداد خطوط کوتاه شده */
+    -webkit-box-orient: vertical;
+  }
