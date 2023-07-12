@@ -3,8 +3,18 @@
 @import url(./bootstrap.css);
 @import url(./-utils.css);
 @import url(./_components.css);
+@import url(./registration.css);
+@import url(./create-new.css);
+@import url(./Details.css);
+@import url(./Todays-task.css);
+@import url(./Verification.css);
+@import url(./Dashboard.css);
 
-
+.mobil-container{
+    width: 380px;
+    margin: 0 auto;
+    padding: 0 .4rem;
+}
 
 
 .header-bg{
@@ -12,9 +22,6 @@ z-index: -1;
 top: 0;
 }
 
-body{
-    width: 380px;
-}
 
 .truncate{
     display:flex;
