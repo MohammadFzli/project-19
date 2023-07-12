@@ -1,1 +1,24 @@
 /* Utils */
+:root{
+    --pink-bg-color:#FFB4B4;
+    --green-bg-color:#B8FF5F;
+    --blue-bg-color:#8FF8FF;
+    --purple-bg-color:#918EFF;
+    --gray-txt-color:#666666;
+    
+    }
+    .bg-pink{
+        background-color: var(--pink-bg-color);
+    }
+    .bg-green{
+        background-color: var(--green-bg-color);
+    }
+    .bg-blue{
+        background-color: var(--blue-bg-color);
+    }
+    .bg-purple{
+        background-color: var(--purple-bg-color);
+    }
+    .txt-gray{
+        color: var(--gray-txt-color);
+    }
